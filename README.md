@@ -27,4 +27,7 @@ Usage:
 | 2        | curl -Lso- https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash      |
 ```
  
+![00.jpg][1]
 
+
+  [1]: https://wikicc.cn/usr/uploads/2018/05/31322539.jpg
